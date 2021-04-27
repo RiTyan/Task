@@ -1,0 +1,8 @@
+.ui.container {
+    margin-top: 60px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
